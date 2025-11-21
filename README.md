@@ -1,6 +1,6 @@
-# Vibing
+# Copilot Agent Vibing
 
-A modern ticket management application built with Angular 21, featuring drag-and-drop functionality and persistent storage using IndexedDB.
+Example for Copilot: A modern ticket management application built with Angular 21, featuring drag-and-drop functionality and persistent storage using IndexedDB.
 
 ## Features
 
@@ -27,7 +27,7 @@ Visit the live application at: [https://qualityminds.github.io/Copilot-Agent-Vib
 1. Clone the repository:
 ```bash
 git clone https://github.com/QualityMinds/Copilot-Agent-Vibing.git
-cd Vibing
+cd Copilot-Agent-Vibing
 ```
 
 2. Install dependencies:
